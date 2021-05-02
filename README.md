@@ -1,1 +1,20 @@
 # frontend
+$ sudo apt update
+$ sudo apt install nginx -y
+$ sudo apt install npm -y
+$  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+$  sudo apt-get install -y nodejs
+$ sudo su -
+# systemctl start nginx
+#  cd /var/www/html
+# mkdir todo
+# cd todo
+# git clone https://github.com/zelar-soft-todoapp/frontend.git
+# cd frontend/
+# npm install
+# cd /etc/nginx/sites-available
+# vim default  
+change root path as root /var/www/html/todo/frontend/dist;
+# cd /var/www/html/todo/frontend
+# npm run build
+#npm start
