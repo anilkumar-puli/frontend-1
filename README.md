@@ -1,4 +1,4 @@
-  #frontend steps and screen shots 
+  
 installation of nginx
 ```
 $ sudo apt update
