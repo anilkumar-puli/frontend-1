@@ -1,7 +1,9 @@
 # frontend
+```
 $ sudo apt update
 $ sudo apt install nginx -y
 $ sudo apt install npm -y
+```
 $  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 $  sudo apt-get install -y nodejs
 $ sudo su -
