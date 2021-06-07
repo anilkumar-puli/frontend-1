@@ -31,7 +31,7 @@ Then enter into this path /var/www/html/todo/frontend
 ```
 #starting npm 
 # npm run build
-after building have to start 
+after building npm has to start 
 #npm start
 ```
 
