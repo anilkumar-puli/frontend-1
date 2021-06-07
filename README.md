@@ -4,14 +4,15 @@ $ sudo apt update
 $ sudo apt install nginx -y
 $ sudo apt install npm -y
 ```
+```
 #installation of nodejs
 $  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 $  sudo apt-get install -y nodejs
 $ sudo su -
 # systemctl start nginx
 ```
-# creating directy and giving path
 ```
+# creating directy and giving path
 #  cd /var/www/html
 # mkdir todo
 # cd todo
@@ -24,6 +25,7 @@ after  node modules folder will be created
 change root path as root /var/www/html/todo/frontend/dist;
 Then enter into this path /var/www/html/todo/frontend
 # cd /var/www/html/todo/frontend
+```
 ```
 #starting npm 
 # npm run build
