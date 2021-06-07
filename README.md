@@ -1,4 +1,5 @@
-# installation of nginx
+  #frontend steps and screen shots 
+installation of nginx
 ```
 $ sudo apt update
 $ sudo apt install nginx -y
