@@ -23,7 +23,6 @@ creating directy and giving path
 # cd frontend/
 # npm install
 ```
-
 after  node modules folder will be created
 ```
 # cd /etc/nginx/sites-available
