@@ -35,6 +35,7 @@ after building have to start
 #npm start
 ```
 
-```
+
+
 ![image](https://user-images.githubusercontent.com/82602260/116800694-22bcc880-ab21-11eb-9c63-102be14d433d.png)
-```
+
